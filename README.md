@@ -1,7 +1,9 @@
 unifi-opnsense
 =============
 
-## THIS IS A FORCK FROM ANOTHER REPO UDAPTE FOR PERSONAL USE. Please use at own risk
+# THIS IS A FORK FROM ANOTHER REPO UDAPTE FOR PERSONAL USE. Please use at own risk
+
+---
 
 A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
 
